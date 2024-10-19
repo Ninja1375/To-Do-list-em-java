@@ -22,9 +22,14 @@ Uma aplicação de gestão de uma lista de tarefas (To-Do List). O programa perm
 
 **Sair:** Sai da aplicação.
 
-Como executar:
-Cria um projeto Java no teu ambiente de desenvolvimento.
-Cria três ficheiros: Main.java, Task.java e TaskManager.java.
-Copia o código acima para os respetivos ficheiros.
-Compila e executa o projeto.
+## Como executar: ##
+
+**1 - Cria um projeto Java no teu ambiente de desenvolvimento.**
+
+**2 - Cria três ficheiros:** Main.java, Task.java e TaskManager.java.
+
+**3 - Copia o código acima para os respetivos ficheiros.**
+
+**4 - Compila e executa o projeto.**
+
 Com este projeto simples, podes aprender a trabalhar com classes, listas e interação com o utilizador em Java.
