@@ -1,6 +1,6 @@
 **Um exemplo simples de um projeto em Java:** 
 
-Uma aplicação de gestão de uma lista de tarefas (To-Do List). O programa permite que o usuário adicione, visualize e remova tarefas.
+Uma aplicação de gestão de uma lista de tarefas **(To-Do List)**. O programa permite que o usuário adicione, visualize e remova tarefas.
 
 ## Estrutura do projeto: ##
 
@@ -8,7 +8,7 @@ Uma aplicação de gestão de uma lista de tarefas (To-Do List). O programa perm
 
 **Task.java:** Classe para representar uma tarefa.
 
-**TaskManager.java:** Classe para gerir a lista de tarefas.
+**TaskManager.java:** Classe para gerar a lista de tarefas.
 
 ## Como funciona: ##
 
@@ -24,9 +24,9 @@ Uma aplicação de gestão de uma lista de tarefas (To-Do List). O programa perm
 
 ## Como executar: ##
 
-**1 - Cria um projeto Java no teu ambiente de desenvolvimento.**
+**1 - Crie um projeto Java no teu ambiente de desenvolvimento.**
 
-**2 - Cria três ficheiros:** ```Main.java```, ```Task.java``` e ```TaskManager.java```.
+**2 - Crie três ficheiros:** ```Main.java```, ```Task.java``` e ```TaskManager.java```.
 
 **3 - Copia o código acima para os respetivos ficheiros.**
 
