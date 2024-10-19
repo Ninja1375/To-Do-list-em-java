@@ -33,3 +33,8 @@ Uma aplicação de gestão de uma lista de tarefas **(To-Do List)**. O programa 
 **4 - Compile e execute o projeto.**
 
 Com este projeto simples, podes aprender a trabalhar com classes, listas e interação com o usuário em Java.
+
+
+## linguagem Utilizada ##
+
+<a href="https://programartudo.blogspot.com/2024/05/java-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/></a>
