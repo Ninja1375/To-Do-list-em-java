@@ -26,10 +26,10 @@ Uma aplicação de gestão de uma lista de tarefas **(To-Do List)**. O programa 
 
 **1 - Crie um projeto Java no teu ambiente de desenvolvimento.**
 
-**2 - Crie três ficheiros:** ```Main.java```, ```Task.java``` e ```TaskManager.java```.
+**2 - Crie três arquivos:** ```Main.java```, ```Task.java``` e ```TaskManager.java```.
 
-**3 - Copia o código acima para os respetivos ficheiros.**
+**3 - Copie o código acima para os respectivos arquivos.**
 
-**4 - Compila e executa o projeto.**
+**4 - Compile e execute o projeto.**
 
-Com este projeto simples, podes aprender a trabalhar com classes, listas e interação com o utilizador em Java.
+Com este projeto simples, podes aprender a trabalhar com classes, listas e interação com o usuário em Java.
