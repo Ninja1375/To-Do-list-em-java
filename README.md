@@ -26,7 +26,7 @@ Uma aplicação de gestão de uma lista de tarefas (To-Do List). O programa perm
 
 **1 - Cria um projeto Java no teu ambiente de desenvolvimento.**
 
-**2 - Cria três ficheiros:** Main.java, Task.java e TaskManager.java.
+**2 - Cria três ficheiros:** ```Main.java```, ```Task.java``` e ```TaskManager.java```.
 
 **3 - Copia o código acima para os respetivos ficheiros.**
 
