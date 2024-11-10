@@ -37,4 +37,4 @@ Com este projeto simples, podes aprender a trabalhar com classes, listas e inter
 
 ## linguagem Utilizada ##
 
-<a href="https://programartudo.blogspot.com/2024/05/java-significado-e-funcionalidade.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/></a>
+<a href="https://programartudo.blogspot.com/2024/11/linguagem-de-programacao-java-conceitos.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/></a>
